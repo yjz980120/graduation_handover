@@ -1,0 +1,6 @@
+相比post_processing_optNeitherConnectToSoma_break_tip2/new_OptJointMaxAngleThreshSection/post_processing_newProcedure_opt_optConnect.py
+上一个最终版本，这里准备加上两个新特征：半径和intensity逐渐递减得特征。
+
+1. 目前准备先加入半径递减得新特征，比较简单方便，而且最好也是一个一个得加特征，逐渐变化
+
+2. 如果1的效果已经比较好了，那么intensity可以不加，因为加这个做后处理比较麻烦，还要把原图读进来看intensity而且追踪结果可能不是那么贴合信号， 加intensity得时候 可以放在改进app2的时候，就是直接加在追踪的过程中，应该要方便很多

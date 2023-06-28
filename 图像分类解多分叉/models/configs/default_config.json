@@ -1,0 +1,8 @@
+{
+"in_channels": 7,
+"base_num_filters": 8,
+"class_num": 3,
+"down_kernel_list": [[3,3,3], [3,3,3], [3,3,3], [3,3,3]],
+"stride_list": [[2,2,2], [2,2,2], [2,2,2], [2,2,2]],
+"output_bias": false
+}

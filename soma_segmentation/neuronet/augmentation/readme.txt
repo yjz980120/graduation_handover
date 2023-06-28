@@ -1,0 +1,1 @@
+#现在augmentation中只把目前需要用到的augmentation方法从swc扩展到了tiff，因为里面包含的augmentationa的方法很多，所以暂时没有全部转到tiff上

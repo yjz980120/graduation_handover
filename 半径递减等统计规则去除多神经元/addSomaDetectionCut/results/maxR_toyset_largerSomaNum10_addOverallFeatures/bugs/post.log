@@ -1,0 +1,166 @@
+Number of tips: 102 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/18127_11451_5008.swc
+There are 2 somas in 18127_11451_5008_18454.swc!
+Soma Detection Cut:
+all_nodes 7749/ not 2401
+Judge Radius Intensity Cut:
+all_nodes 5348/ not 4788
+Post Pruned:
+Number of tips: 13 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/18127_11451_5008.swc
+There are 0 closing_bifurcation, and 0 multifurcation
+There are not exist crossing_likely in 18127_11451_5008_18454.swc file!
+Number of tips: 319 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/23972_12312_5893.swc
+There are 8 somas in 23972_12312_5893_18454.swc!
+Soma Detection Cut:
+all_nodes 18048/ not 6614
+Judge Radius Intensity Cut:
+all_nodes 11434/ not 10608
+Post Pruned:
+Number of tips: 41 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/23972_12312_5893.swc
+There are 2 closing_bifurcation, and 0 multifurcation
+There are 2 crossing_likely, and 2 do not need to process!
+There are 0 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 826/ not 73
+Finished!
+
+
+Number of tips: 611 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/10228_10977_5814.swc
+There are 12 somas in 10228_10977_5814_18454.swc!
+There are massive somas in 10228_10977_5814_18454.swc file!
+Number of tips: 182 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/11862_11854_5544.swc
+There are 3 somas in 11862_11854_5544_18454.swc!
+Soma Detection Cut:
+all_nodes 10719/ not 3048
+Judge Radius Intensity Cut:
+all_nodes 7671/ not 7205
+Post Pruned:
+Number of tips: 27 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/11862_11854_5544.swc
+There are 2 closing_bifurcation, and 2 multifurcation
+There are 4 crossing_likely, and 4 do not need to process!
+There are 0 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 466/ not 96
+Finished!
+
+
+Number of tips: 151 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/21357_12301_5813.swc
+There are 6 somas in 21357_12301_5813_18454.swc!
+Soma Detection Cut:
+all_nodes 12348/ not 4176
+Judge Radius Intensity Cut:
+all_nodes 8172/ not 7377
+Post Pruned:
+Number of tips: 25 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/21357_12301_5813.swc
+There are 3 closing_bifurcation, and 0 multifurcation
+There are 3 crossing_likely, and 2 do not need to process!
+There are 0 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 795/ not 135
+Finished!
+
+
+Number of tips: 564 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/11388_13576_5566.swc
+There are 11 somas in 11388_13576_5566_18454.swc!
+There are massive somas in 11388_13576_5566_18454.swc file!
+Number of tips: 299 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/25312_9800_5792.swc
+There are 10 somas in 25312_9800_5792_18454.swc!
+Soma Detection Cut:
+all_nodes 17838/ not 10723
+Judge Radius Intensity Cut:
+all_nodes 7115/ not 6817
+Post Pruned:
+Number of tips: 13 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/25312_9800_5792.swc
+There are 0 closing_bifurcation, and 0 multifurcation
+There are not exist crossing_likely in 25312_9800_5792_18454.swc file!
+Number of tips: 362 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/10720_10089_5903.swc
+There are 7 somas in 10720_10089_5903_18454.swc!
+Soma Detection Cut:
+all_nodes 20135/ not 5379
+Judge Radius Intensity Cut:
+all_nodes 14756/ not 13439
+Post Pruned:
+Number of tips: 29 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/10720_10089_5903.swc
+There are 3 closing_bifurcation, and 1 multifurcation
+There are 4 crossing_likely, and 4 do not need to process!
+There are 1 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 1317/ not 547
+Finished!
+
+
+Number of tips: 111 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/8062_9100_5057.swc
+There are 6 somas in 8062_9100_5057_18454.swc!
+Soma Detection Cut:
+all_nodes 6456/ not 3286
+Judge Radius Intensity Cut:
+all_nodes 3170/ not 3035
+Post Pruned:
+Number of tips: 7 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/8062_9100_5057.swc
+There are 0 closing_bifurcation, and 0 multifurcation
+There are not exist crossing_likely in 8062_9100_5057_18454.swc file!
+Number of tips: 406 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/24057_10639_5802.swc
+There are 8 somas in 24057_10639_5802_18454.swc!
+Soma Detection Cut:
+all_nodes 23098/ not 11356
+Judge Radius Intensity Cut:
+all_nodes 11742/ not 11131
+Post Pruned:
+Number of tips: 26 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/24057_10639_5802.swc
+There are 0 closing_bifurcation, and 1 multifurcation
+There are 1 crossing_likely, and 1 do not need to process!
+There are 0 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 611/ not 20
+Finished!
+
+
+Number of tips: 282 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/10426_10338_6106.swc
+There are 6 somas in 10426_10338_6106_18454.swc!
+Soma Detection Cut:
+all_nodes 14468/ not 11441
+Judge Radius Intensity Cut:
+all_nodes 3027/ not 2246
+Post Pruned:
+Number of tips: 19 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/10426_10338_6106.swc
+There are 2 closing_bifurcation, and 0 multifurcation
+There are 2 crossing_likely, and 2 do not need to process!
+There are 0 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 781/ not 80
+Finished!
+
+
+Number of tips: 351 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/9664_10924_6020.swc
+There are 9 somas in 9664_10924_6020_18454.swc!
+Soma Detection Cut:
+all_nodes 18308/ not 9955
+Judge Radius Intensity Cut:
+all_nodes 8353/ not 7992
+Post Pruned:
+Number of tips: 17 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/9664_10924_6020.swc
+There are 0 closing_bifurcation, and 1 multifurcation
+There are 1 crossing_likely, and 1 do not need to process!
+There are 0 shortly segments!
+There are 0 break_tip2 pair crossinglikely, and breakTip2 match 0 crossinglikely !
+There are 0 break_tip2_pairs, 0 break_tip2_pairs all connect to soma(lead to ring), and 0 break_tip2_pairs neither connect to soma!
+all_nodes 361/ not 45
+Finished!
+
+
+Number of tips: 90 in file: /home/yjz/Project/Auto-tracing/data/seu_mouse/crop_data/dendriteImageMaxR_AllData/app2_upsample3_toyset_rotationAug_sorted/18454/14528_10688_3118.swc
+There are 1 somas in 14528_10688_3118_18454.swc!
+Judge Radius Intensity Cut:
+Traceback (most recent call last):
+  File "post_processing_addMoreFeatures_addClaw_addSomaDetectionCut_addOverallDeatures.py", line 1377, in <module>
+    cut_morph = overall_judge_radius_andIntensity_decreasing(cut_morph, tiff_file, overall_count)
+  File "post_processing_addMoreFeatures_addClaw_addSomaDetectionCut_addOverallDeatures.py", line 1214, in overall_judge_radius_andIntensity_decreasing
+    segment_s_intensity = calc_segment_intensity(ori_img, segment_s)
+  File "post_processing_addMoreFeatures_addClaw_addSomaDetectionCut_addOverallDeatures.py", line 1172, in calc_segment_intensity
+    x = round(morph.pos_dict[idx][2])
+KeyError: 17153
